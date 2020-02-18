@@ -1,13 +1,12 @@
 ---
 title: Writings of Bahá’u’lláh (Holy Verses)
-type: table
 ---
 Best known Writings of Bahá’u’lláh as listed by Shoghi Effendi
 |#|name|source language|additional files|translations|audio|notes|
 |----|----|----|----|----|----|----|
 |1|Alváḥ-i-Laylatu’l-Quds:||||||
 ||- Alváḥ-i-Laylatu’l-Quds 1||||||
-||- Alváḥ-i-Laylatu’l-Quds 2|[fa](/bahaullah-st-001-2-fa)|[md](/bahaullah-st-001-2-en)[pdf](/Bahaullah-ST-001_2_en.pdf)[docx](/Bahaullah-ST-001_2_en.docx)|[en](/bahaullah-st-001-2-en)|||
+||- Alváḥ-i-Laylatu’l-Quds 2|[fa](/bahaullah-st-001-2-fa)|[md](/bahaullah-st-001-2-en)[pdf](/Bahaullah-ST-001_2_en.pdf)[docx](/Bahaullah-ST-001_2_en.docx)|[en](/bahaullah-st-001-2-en)||[pdf](/Bahaullah-ST-001_2_en.pdf)|
 |2|Aṣl-i-Qullu’l-Khayr|[ar](/bahaullah-st-002-ar)|[md](/bahaullah-st-002-en)[pdf](/Bahaullah-ST-002_en.pdf)[docx](/Bahaullah-ST-002_en.docx)|[en](/bahaullah-st-002-en)|||
 |3|Az-Bágh-i-Iláhí||||||
 |4|Báz-Áv-u-Bidih-Jámí||||||
