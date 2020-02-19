@@ -2,6 +2,7 @@
 title: Writings of Bahá’u’lláh (Holy Verses)
 ---
 Best known Writings of Bahá’u’lláh as listed by Shoghi Effendi
+
 |#|name|source language|additional files|translations|audio|notes|
 |----|----|----|----|----|----|----|
 |1|Alváḥ-i-Laylatu’l-Quds:||||||
@@ -10,7 +11,7 @@ Best known Writings of Bahá’u’lláh as listed by Shoghi Effendi
 |2|Aṣl-i-Qullu’l-Khayr|[ar](/bahaullah-st-002-ar)|[md](/bahaullah-st-002-en)[pdf](/Bahaullah-ST-002_en.pdf)[docx](/Bahaullah-ST-002_en.docx)|[en](/bahaullah-st-002-en)|||
 |3|Az-Bágh-i-Iláhí||||||
 |4|Báz-Áv-u-Bidih-Jámí||||||
-|5|Bishárát (Glad Tidings)|[fa](/bahaullah-st-005-fa)|[md](/bahaullah-st-005-en)[pdf](/Bahaullah-ST-005_en.pdf)[docx](/Bahaullah-ST-005_en.docx)|[ar](/bahaullah-st-005-ar)[en](/bahaullah-st-005-en)|||
+|5|Bishárát (Glad Tidings)|[fa](/bahaullah-st-005-fa)|[md](/bahaullah-st-005-en)[pdf](/Bahaullah-ST-005_en.pdf)[docx](/Bahaullah-ST-005_en.docx)|[ar](/bahaullah-st-005-ar)[en](/bahaullah-st-005-en)||[pdf](/Bahaullah-ST-005_en.pdf)|
 |6|Haft-Vádí (Seven Valleys)|[fa](/bahaullah-st-006-fa)|[md](/bahaullah-st-006-en)[pdf](/Bahaullah-ST-006_en.pdf)[docx](/Bahaullah-ST-006_en.docx)|[en](/bahaullah-st-006-en)|||
 |7|Chihár-Vádí (Four Valleys)|[fa](/bahaullah-st-007-fa)|[md](/bahaullah-st-007-en)[pdf](/Bahaullah-ST-007_en.pdf)[docx](/Bahaullah-ST-007_en.docx)|[en](/bahaullah-st-007-en)|||
 |8|Halih-Halih-Yá-Bishárat||||||
